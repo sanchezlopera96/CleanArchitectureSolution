@@ -120,3 +120,17 @@ Se validan:
 
 - Creación de órdenes
 - Cancelación de órdenes
+
+Swagger
+
+<img width="1584" height="656" alt="image" src="https://github.com/user-attachments/assets/0bfa1849-ed74-4c0a-9291-f9470f104801" />
+
+Sql Server
+
+<img width="922" height="342" alt="image" src="https://github.com/user-attachments/assets/dc67e2bf-028b-4e65-ba4d-5dead5c4c97f" />
+
+Test
+
+<img width="908" height="393" alt="image" src="https://github.com/user-attachments/assets/0c0857e0-be07-4577-84bc-cd8ed69e615e" />
+
+
